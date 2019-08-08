@@ -1,0 +1,22 @@
+.bg-info {
+  width: 420px;
+  margin-left:
+}
+.container {
+    /* margin-top: 40px; */
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: 20px;
+    float: left;
+  }
+.main-text {
+  padding: 20px;
+  border-color: white;
+  border-style: solid;
+  font-weight: bold;
+  color: black;
+  background-color: white;
+  width: 300px;
+
+
+}
